@@ -1,0 +1,23 @@
+[
+  {
+    "title":"Physical Activity",
+    "img": "assets/images/Group 12343.png",
+    "color" : "0xFFE8F3FE"
+  },
+  {
+    "title":"Nutrition",
+    "img": "assets/images/Group 12247.png",
+    "color" : "0xFFEFFAFB"
+  },
+  {
+    "title":"Workplace Health",
+    "img": "assets/images/Group 12248.png",
+    "color" : "0xFFFCF6ED"
+  },
+  {
+    "title":"Achievements",
+    "img": "assets/images/Group 12249.png",
+    "color" : "0xFFF2EDFD"
+  }
+
+  ]
